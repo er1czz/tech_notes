@@ -19,7 +19,7 @@
 # >>> synth() <<<
 # default database: "clai"."medical_network_extract_v36"  
 # input format: "EP020421796423531", 'EP020821709092846'
-# If user != Eric, please update your s3_dir below
+# !!! first time user, please add your s3_dir below
 
 # 1. fetch data as dataframe through Athena
 def sampler(claim_tcn_id='EP041721702869330'):
@@ -29,7 +29,7 @@ def sampler(claim_tcn_id='EP041721702869330'):
     
     claim_tcn_id = str(claim_tcn_id)
 
-    s3_dir = 's3://nucleus-chc-preprod-datasciences/users/erzhang/athena-queries/'
+    s3_dir = 'xxx'
     region = 'us-east-1'
     cursor = connect(s3_staging_dir= s3_dir, region_name= region).cursor()
     
