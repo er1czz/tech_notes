@@ -62,10 +62,10 @@ Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 
 # New tech (to-do list)
 - [x] [Violin plot](https://en.wikipedia.org/wiki/Violin_plot)
-- [] [Panel (jnb interactive html)](https://github.com/holoviz/panel)
+- [ ] [Panel (jnb interactive html)](https://github.com/holoviz/panel)
 - [x] [Gradio (create UI for ML demo)](https://github.com/gradio-app/gradio)
-- [] [IntepretML, Explainable Boosting](https://github.com/interpretml/interpret)
-- [tqdm, loading bar](https://github.com/tqdm/tqdm#usage)
+- [ ] [IntepretML, Explainable Boosting](https://github.com/interpretml/interpret)
+- [ ] [tqdm, loading bar](https://github.com/tqdm/tqdm#usage)
 - [x] [Detectron2.0, successor of Mask R-CNN benchmark](https://github.com/facebookresearch/detectron2)
 - [x] [Image Deduplicator (imagededup)](https://github.com/idealo/imagededup)
 - [x] [joblib (multiprocessing in JNB)](https://joblib.readthedocs.io/en/latest/why.html)
