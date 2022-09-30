@@ -41,18 +41,6 @@
 - [Note: AWS Big Data Training](https://github.com/er1czz/tech_notes/blob/main/tech/TrainingNote_AWS_big_data.md)
 - [Note: AWS Analytics Course](https://github.com/er1czz/tech_notes/blob/main/tech/Course_AWS_analytics.md)
 - [Note: Computer Vision Theory](https://github.com/er1czz/tech_notes/blob/main/tech/Note_course_CV_theory.md)
-- [cv preprocessing jpg - png](https://github.com/er1czz/tech_notes/blob/main/tech/cv_preprocessing.md)
-# Others
-Update environment and package (step order): 
-```
-    $ brew update 
-    $ brew upgrade
-    $ conda update -n base conda    
-    $ conda update --all
-```
-Tips: in terminal, type <b>!j</b> will start last command start with <b>*j*</b> such as 'jupyter notebook'.
-
-Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 
 # Domain knowledge
 - [Synthesizing health insurance claim payload (JSON)](https://github.com/er1czz/tech_notes/blob/main/SME/payload_syn.md)
@@ -70,6 +58,19 @@ Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 - [x] [Detectron2.0, successor of Mask R-CNN benchmark](https://github.com/facebookresearch/detectron2)
 - [x] [Image Deduplicator (imagededup)](https://github.com/idealo/imagededup)
 - [x] [joblib (multiprocessing in JNB)](https://joblib.readthedocs.io/en/latest/why.html)
+- [cv preprocessing jpg - png](https://github.com/er1czz/tech_notes/blob/main/tech/cv_preprocessing.md)
+
+# Others
+Update environment and package (step order): 
+```
+    $ brew update 
+    $ brew upgrade
+    $ conda update -n base conda    
+    $ conda update --all
+```
+Tips: in terminal, type <b>!j</b> will start last command start with <b>*j*</b> such as 'jupyter notebook'.
+
+Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 
 # Mapping generic keyboard on Mac
 - Go to Keyboard, then Modifer Keys ...
