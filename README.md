@@ -27,7 +27,7 @@
 - Network
 ###### Strong - vulnerable, Decisive - flexible, Strategic - creative, Outgoing - introspective
 
-## Tech Notes
+## Techstack
 - [Athena, Redshift(AWS SQL)](https://github.com/er1czz/tech_notes/blob/main/tech/athena.md): local setup and some tricks for date and time
 - [Python](https://github.com/er1czz/tech_notes/blob/main/tech/python.md)
 - [Regular Expressions (Regex)](https://github.com/er1czz/tech_notes/blob/main/tech/Regex.md)
@@ -50,7 +50,7 @@
 - [dental xray basics](https://github.com/er1czz/tech_notes/blob/main/SME/dentalxrays.md)
 - [Dental tooth number](https://github.com/er1czz/tech_notes/blob/main/SME/tooth_number.md)
 
-## New tech (to-do list)
+## tech to-do list
 - [ ] [Violin plot](https://en.wikipedia.org/wiki/Violin_plot)
 - [ ] [Panel (jnb interactive html)](https://github.com/holoviz/panel)
 - [x] [Gradio (create UI for ML demo)](https://github.com/gradio-app/gradio)
