@@ -55,6 +55,7 @@ Tips: in terminal, type <b>!j</b> will start last command start with <b>*j*</b> 
 Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 
 # Domain knowledge
+- [Synthesizing health insurance claim payload (JSON)](https://github.com/er1czz/tech_notes/blob/main/SME/payload_syn.md)
 - [Medical Coding](https://github.com/er1czz/writeup/blob/main/SME/Note_medical_coding.md)
 - [conditional probability, carc code as example (private)](https://github.com/er1czz/writeup/blob/main/SME/Writeup_Conditional_Probability_for_reason_codes.pdf)
 - [dental xray basics](https://github.com/er1czz/writeup/blob/main/SME/dentalxrays.md)
