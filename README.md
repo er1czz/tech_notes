@@ -61,7 +61,7 @@ Git: a very well-made tutorial for Git https://youtu.be/n-p1RUmdl9M
 - [Dental tooth number](https://github.com/er1czz/writeup/blob/main/SME/tooth_number.md)
 
 # New tech (to-do list)
-- [x] [Violin plot](https://en.wikipedia.org/wiki/Violin_plot)
+- [ ] [Violin plot](https://en.wikipedia.org/wiki/Violin_plot)
 - [ ] [Panel (jnb interactive html)](https://github.com/holoviz/panel)
 - [x] [Gradio (create UI for ML demo)](https://github.com/gradio-app/gradio)
 - [ ] [IntepretML, Explainable Boosting](https://github.com/interpretml/interpret)
