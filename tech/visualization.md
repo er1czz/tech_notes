@@ -1,4 +1,8 @@
-# Visualization templates (matplotlib, seaborn, bokeh)
+# Visualization 
+
+## templates (matplotlib, seaborn, bokeh)
+- matplotlib & seaborn examples https://github.com/er1czz/data_challenge_insight/blob/main/5_CreditCard_userSegmentation.ipynb
+- Bokeh tutorial https://github.com/er1czz/Bokeh_tutorial
 
 ## Display an resized image in Jupyter Notebook
 ```
