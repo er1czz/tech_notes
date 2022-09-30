@@ -16,7 +16,7 @@ https://explore.skillbuilder.aws/learn/course/44/play/483/data-analytics-fundame
 - once stored, an object key will be assigned.
 - An object key is the unique identifier for an object in a bucket. 
 - Below is an example of a URL for a single object in a bucket named doc, with an object key composed of the prefix 2006-03-01 and the file named AmazonS3.html.
-- ![s3 bucket schematic](https://github.com/er1czz/writeup/blob/main/S3_bucket_schematic.png)
+- ![s3 bucket schematic](https://github.com/er1czz/tech_notes/blob/main/S3_bucket_schematic.png)
 - REST APIs: Representational State Transfer (REST) APIs are programming interfaces commonly used to interact with files in Amazon S3. 
 ### Data warehouses (Redshift)
 - A central repository of structured data from many data sources. 
@@ -53,13 +53,13 @@ https://explore.skillbuilder.aws/learn/course/44/play/483/data-analytics-fundame
 - Amazon EMR: provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. 
 - AWS Glue: a fully managed extract, transform, and load (ETL) service that makes it easy for you to prepare and load your data for analytics. 
 - Amazon Redshift: a fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake. 
-- ![Batch processing architecture 1](https://github.com/er1czz/writeup/blob/main/batch_processing_architecture1.png)
+- ![Batch processing architecture 1](https://github.com/er1czz/tech_notes/blob/main/batch_processing_architecture1.png)
 - <p align="center"><b>Batch processing architecture 1</b></p>
-- ![Batch processing architecture 2](https://github.com/er1czz/writeup/blob/main/batch_processing_architecture2.png)
+- ![Batch processing architecture 2](https://github.com/er1czz/tech_notes/blob/main/batch_processing_architecture2.png)
 - <p align="center"><b>Batch processing architecture 2</b></p>
 
 ### Stream processing
-- ![Benefits of stream processing](https://github.com/er1czz/writeup/blob/main/benefits_of_stream_processing.png)
+- ![Benefits of stream processing](https://github.com/er1czz/tech_notes/blob/main/benefits_of_stream_processing.png)
 - <p align="center"><b>Benefits of stream processing</b></p>
 ##### Amazon Kinesis key functions:
  - to ingest the constant stream of data
@@ -71,7 +71,7 @@ https://explore.skillbuilder.aws/learn/course/44/play/483/data-analytics-fundame
  - Amazon Kinesis Video Stream: to securely stream video from connected devices to AWS for analytics, machine learning (ML), and other processing.
  - Amazon Kinesis Data Analytics: to process data streams in real time with SQL or Java without having to learn new programming languages or processing frameworks.
 #### Combined processing architecture
-- ![Combined processing architecture](https://github.com/er1czz/writeup/blob/main/combined_processing_architecture.png)
+- ![Combined processing architecture](https://github.com/er1czz/tech_notes/blob/main/combined_processing_architecture.png)
 - <p align="center"><b>Combined processing architecture</b></p>
 
 ## Data variety
@@ -180,7 +180,7 @@ Graph databases are purpose-built to store any type of data: structured, semistr
   - Descriptive analysis, often called data mining.
   - Predictive analytics, 3 key layers: Application services, Platform services, Frameworks and interfaces (ML practice)
   - Cognitive analytics, highly specialized recommendations to businesses without any human involvement
-  - ![5 types of data analytics](https://github.com/er1czz/writeup/blob/main/5types_data_analytics.png)
+  - ![5 types of data analytics](https://github.com/er1czz/tech_notes/blob/main/5types_data_analytics.png)
   - <b>Different type of data analytics based on the input of human judgement</b>
 - Analytic services by velocity: batch, interactive, and stream
   - batch analytics: querying large amounts of “cold” data. (e.g. Amazon EMR)
