@@ -28,20 +28,20 @@
 ###### Strong - vulnerable, Decisive - flexible, Strategic - creative, Outgoing - introspective
 
 # Tech Notes
-- [Athena, Redshift(AWS SQL)](https://github.com/er1czz/writeup/blob/main/tech/athena.md): local setup and some tricks for date and time
-- [Python](https://github.com/er1czz/writeup/blob/main/tech/python.md)
-- [Regular Expressions (Regex)](https://github.com/er1czz/writeup/blob/main/tech/Regex.md)
-- [Data Engineering 101](https://github.com/er1czz/writeup/blob/main/tech/data_engineering_101.md)
-- [Data Structure Algorithm](https://github.com/er1czz/writeup/blob/main/tech/data_structure_algorithm.md)
-- [Apache Spark](https://github.com/er1czz/writeup/blob/main/tech/spark.md)
-- [Visualization](https://github.com/er1czz/writeup/blob/main/tech/visualization.md)
-- [Container](https://github.com/er1czz/writeup/blob/main/tech/container.md)
-- [AWS Security](https://github.com/er1czz/writeup/blob/main/tech/AWS_security.md)
-- [pandas](https://github.com/er1czz/writeup/blob/main/tech/pandas.md)
-- [Note: AWS Big Data Training](https://github.com/er1czz/writeup/blob/main/tech/TrainingNote_AWS_big_data.md)
-- [Note: AWS Analytics Course](https://github.com/er1czz/writeup/blob/main/tech/Course_AWS_analytics.md)
-- [Note: Computer Vision Theory](https://github.com/er1czz/writeup/blob/main/tech/Note_course_CV_theory.md)
-- [cv preprocessing jpg - png](https://github.com/er1czz/writeup/blob/main/tech/cv_preprocessing.md)
+- [Athena, Redshift(AWS SQL)](https://github.com/er1czz/tech_notes/blob/main/tech/athena.md): local setup and some tricks for date and time
+- [Python](https://github.com/er1czz/tech_notes/blob/main/tech/python.md)
+- [Regular Expressions (Regex)](https://github.com/er1czz/tech_notes/blob/main/tech/Regex.md)
+- [Data Engineering 101](https://github.com/er1czz/tech_notes/blob/main/tech/data_engineering_101.md)
+- [Data Structure Algorithm](https://github.com/er1czz/tech_notes/blob/main/tech/data_structure_algorithm.md)
+- [Apache Spark](https://github.com/er1czz/tech_notes/blob/main/tech/spark.md)
+- [Visualization](https://github.com/er1czz/tech_notes/blob/main/tech/visualization.md)
+- [Container](https://github.com/er1czz/tech_notes/blob/main/tech/container.md)
+- [AWS Security](https://github.com/er1czz/tech_notes/blob/main/tech/AWS_security.md)
+- [pandas](https://github.com/er1czz/tech_notes/blob/main/tech/pandas.md)
+- [Note: AWS Big Data Training](https://github.com/er1czz/tech_notes/blob/main/tech/TrainingNote_AWS_big_data.md)
+- [Note: AWS Analytics Course](https://github.com/er1czz/tech_notes/blob/main/tech/Course_AWS_analytics.md)
+- [Note: Computer Vision Theory](https://github.com/er1czz/tech_notes/blob/main/tech/Note_course_CV_theory.md)
+- [cv preprocessing jpg - png](https://github.com/er1czz/tech_notes/blob/main/tech/cv_preprocessing.md)
 # Others
 Update environment and package (step order): 
 ```
