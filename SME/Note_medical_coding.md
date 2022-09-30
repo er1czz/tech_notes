@@ -1,6 +1,5 @@
 # Note from internal course: Medical Coding (CHU)
 ## Insurance Billing Process
-- ![insurance_billing_process](https://github.com/er1czz/tech_notes/blob/main/insurance_billing_process.png)
 ```mermaid
   graph TD;
       A[provider submit claim as EDI, paper, web portal]-->B[validate recipient data];
