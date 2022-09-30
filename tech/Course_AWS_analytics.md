@@ -119,7 +119,7 @@ The needs of the business have changed. You need to add a new column to track ea
 #### Graph databases
 Graph databases are purpose-built to store any type of data: structured, semistructured, or unstructured. The purpose for organization in a graph database is to navigate relationships.
 #### relational vs non-relational databases
-- ![relational vs non-relational databases](relational_vs_non-relational_db.png)
+- ![relational vs non-relational databases]([relational_vs_non-relational_db.png](https://github.com/er1czz/tech_notes/blob/main/relational_vs_non-relational_db.png)
 
 ## Data veracity: the degree to which data is accurate, precise, and trusted.
 - Curation: the action or process of selecting, organizing, and looking after the items in a collection.
