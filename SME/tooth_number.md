@@ -1,5 +1,5 @@
 # Tooth Numbering in the US
-![tooth_number](https://github.com/er1czz/writeup/blob/main/SME/tooth_numbering.jpeg)
+![tooth_number](https://github.com/er1czz/tech_notes/blob/main/SME/tooth_numbering.jpeg)
 - [image source](https://www.dentalcare.com/en-us/professional-education/ce-courses/ce500/permanent-dentition)
 - Universal Numbering System is only commonly used in the US ([Wikipedia](https://en.wikipedia.org/wiki/Universal_Numbering_System))
 
