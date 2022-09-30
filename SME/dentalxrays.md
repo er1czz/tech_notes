@@ -83,4 +83,4 @@
 
 ##### Periodontal disease quiz
 - https://quizlet.com/145323474/chapter-34-interpretation-of-periodontal-disease-flash-cards/
-#### https://github.com/er1czz/dental_xray_image_scraping
+#### https://github.com/er1czz/dental_xray_image_scraping (private)
