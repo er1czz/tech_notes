@@ -27,7 +27,7 @@
 - Network
 ###### Strong - vulnerable, Decisive - flexible, Strategic - creative, Outgoing - introspective
 
-## Techstack
+## Techstack notes
 - [Athena, Redshift(AWS SQL)](https://github.com/er1czz/tech_notes/blob/main/tech/athena.md): local setup and some tricks for date and time
 - [Python](https://github.com/er1czz/tech_notes/blob/main/tech/python.md)
 - [Regular Expressions (Regex)](https://github.com/er1czz/tech_notes/blob/main/tech/Regex.md)
