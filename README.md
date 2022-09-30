@@ -45,7 +45,7 @@
 # Domain knowledge
 - [Synthesizing health insurance claim payload (JSON)](https://github.com/er1czz/tech_notes/blob/main/SME/payload_syn.md)
 - [Medical Coding](https://github.com/er1czz/tech_notes/blob/main/SME/Note_medical_coding.md)
-- [conditional probability, carc code as example (private)](https://github.com/er1czz/writeup/blob/main/SME/Writeup_Conditional_Probability_for_reason_codes.pdf)
+- [conditional probability, carc code as example (**private link**)](https://github.com/er1czz/writeup/blob/main/SME/Writeup_Conditional_Probability_for_reason_codes.pdf)
 - [dental xray basics](https://github.com/er1czz/tech_notes/blob/main/SME/dentalxrays.md)
 - [Dental tooth number](https://github.com/er1czz/tech_notes/blob/main/SME/tooth_number.md)
 
