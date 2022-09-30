@@ -43,7 +43,7 @@
 - [Note: Computer Vision Theory](https://github.com/er1czz/tech_notes/blob/main/tech/Note_course_CV_theory.md)
 - [cv preprocessing jpg - png](https://github.com/er1czz/tech_notes/blob/main/tech/cv_preprocessing.md)
 
-## Domain knowledge
+## Domain knowledge notes
 - [Synthesizing health insurance claim payload (JSON)](https://github.com/er1czz/tech_notes/blob/main/SME/payload_syn.md)
 - [Medical Coding](https://github.com/er1czz/tech_notes/blob/main/SME/Note_medical_coding.md)
 - [conditional probability, carc code as example (**private link**)](https://github.com/er1czz/writeup/blob/main/SME/Writeup_Conditional_Probability_for_reason_codes.pdf)
