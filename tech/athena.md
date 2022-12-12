@@ -147,7 +147,7 @@ def sampler(value='123xyz'):
 ```
 
 ## Redshift
-### [Setup](https://pypi.org/project/redshift-connector/) in Jupyter Notebook (the password at CHC is in the AWS secret)
+### [Setup](https://pypi.org/project/redshift-connector/) in Jupyter Notebook (the password can be retrieved from the AWS secret)
 
 ```
 import pandas as pd
